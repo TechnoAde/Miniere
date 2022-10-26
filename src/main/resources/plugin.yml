@@ -1,0 +1,8 @@
+name: Miniere
+version: '${project.version}'
+main: it.azuremc.miniere.Main
+api-version: 1.18
+commands:
+  disablemine:
+    description: Disable
+    permission: miniere.disable
